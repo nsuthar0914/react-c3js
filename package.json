@@ -35,7 +35,7 @@
     "react-dom": "^15.0.0"
   },
   "dependencies": {
-    "c3": "git@github.com:nsuthar0914/c3.git#master"
+    "c3": "git://github.com/nsuthar0914/c3.git"
   },
   "devDependencies": {
     "@types/c3": "^0.4.37",
